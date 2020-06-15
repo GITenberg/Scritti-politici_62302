@@ -1,0 +1,36 @@
+_repo: Scritti-politici_62302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mamiani della Rovere, Terenzio, conte
+    aliases:
+    - Rovere, Terenzio Mamiani, conte della
+    - Mamiani, Terenzio, conte
+    - Della Rovere, Terenzio Mamiani, conte
+    birthdate: 1799
+    deathdate: 1885
+    gutenberg_agent_id: '51885'
+    url: http://www.gutenberg.org/2009/agents/51885
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Terenzio,_Count_Mamiani_della_Rovere
+    - https://it.wikipedia.org/wiki/Terenzio_Mamiani
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62302'
+  lccn: ltf90028572
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Politics and government -- 1815-1870'
+- !lcc 'DG'
+- !lcsh 'Europe -- Politics and government -- 1815-1871'
+- !lcsh 'Italy -- History -- 1849-1870'
+- !lcc 'JN'
+- GITenberg
+title: Scritti politici
+url: http://www.gutenberg.org/ebooks/62302
